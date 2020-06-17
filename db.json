@@ -126,6 +126,7 @@
         "priceData": [
             {
                 "id": 1,
+                "planClass": "single-price-plan",
                 "planTitle": "Starter",
                 "planPrice": "$19",
                 "planPackage": "/month",
@@ -139,6 +140,7 @@
             },
             {
                 "id": 2,
+                "planClass": "single-price-plan",
                 "planTitle": "Basic",
                 "planPrice": "$29",
                 "planPackage": "/month",
@@ -152,6 +154,7 @@
             },
             {
                 "id": 3,
+                "planClass": "single-price-plan featured",
                 "planTitle": "Pro",
                 "planPrice": "$49",
                 "planPackage": "/month",
@@ -165,6 +168,7 @@
             },
             {
                 "id": 4,
+                "planClass": "single-price-plan",
                 "planTitle": "Ultra",
                 "planPrice": "$99",
                 "planPackage": "/month",

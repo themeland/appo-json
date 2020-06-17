@@ -44,6 +44,26 @@
                 "promoImage": "/img/feature_icons_3.png",
                 "promoTitle": "24/7 Support",
                 "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            }
+        ],
+        "promoDataThree": [
+            {
+                "id": 1,
+                "promoImage": "/img/feature_icons_1.png",
+                "promoTitle": "Free Trail",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 2,
+                "promoImage": "/img/feature_icons_2.png",
+                "promoTitle": "Easy to use",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
+            },
+            {
+                "id": 3,
+                "promoImage": "/img/feature_icons_3.png",
+                "promoTitle": "24/7 Support",
+                "promoText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum impedit possimus eligendi, quam soluta qui."
             },
             {
                 "id": 4,

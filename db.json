@@ -123,7 +123,6 @@
         "heading": "Affordable Pricing Plans",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTextTwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-        "btnText": "Select Plan",
         "priceData": [
             {
                 "id": 1,
@@ -135,7 +134,8 @@
                 "plan_li_3": "Unlimited Email",
                 "plan_li_4": "250Gb mo Transfer",
                 "plan_li_5": "24/7 Tech Support",
-                "plan_li_6": "Daily Backups"
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
             },
             {
                 "id": 2,
@@ -147,7 +147,8 @@
                 "plan_li_3": "Unlimited Email",
                 "plan_li_4": "500Gb mo Transfer",
                 "plan_li_5": "24/7 Tech Support",
-                "plan_li_6": "Daily Backups"
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
             },
             {
                 "id": 3,
@@ -159,7 +160,8 @@
                 "plan_li_3": "Unlimited Email",
                 "plan_li_4": "2000Gb mo Transfer",
                 "plan_li_5": "24/7 Tech Support",
-                "plan_li_6": "Daily Backups"
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
             },
             {
                 "id": 4,
@@ -171,7 +173,8 @@
                 "plan_li_3": "Unlimited Email",
                 "plan_li_4": "10000Gb mo Transfer",
                 "plan_li_5": "24/7 Tech Support",
-                "plan_li_6": "Daily Backups"
+                "plan_li_6": "Daily Backups",
+                "btnText": "Select Plan"
             }
         ]
     },

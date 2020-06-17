@@ -95,7 +95,9 @@
             {
                 "id": 1,
                 "linkClass": "btn btn-bordered",
+                "linkClassTwo": "btn btn-bordered text-white",
                 "iconClass": "icofont icofont-brand-android-robot dsp-tc",
+                "iconClassTwo": "icofont icofont-brand-android-robot dsp-tc text-white",
                 "iconText": "GET IT ON",
                 "iconSpan": "Google Play"
             },

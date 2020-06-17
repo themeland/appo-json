@@ -97,13 +97,13 @@
                 "linkClass": "btn btn-bordered",
                 "linkClassTwo": "btn btn-bordered text-white",
                 "iconClass": "icofont icofont-brand-android-robot dsp-tc",
-                "iconClassTwo": "icofont icofont-brand-android-robot dsp-tc text-white",
                 "iconText": "GET IT ON",
                 "iconSpan": "Google Play"
             },
             {
                 "id": 2,
                 "linkClass": "btn btn-bordered",
+                "linkClassTwo": "btn btn-bordered text-white",
                 "iconClass": "icofont icofont-brand-apple dsp-tc",
                 "iconText": "AVAILABLE ON",
                 "iconSpan": "Apple Store"
